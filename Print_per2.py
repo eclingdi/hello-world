@@ -1,4 +1,5 @@
 string="Hello World"
+#use end=“” to hold on and print to create enter
 def print_per_2(s):
     for n, i in enumerate(s):
         #print(n, i)
