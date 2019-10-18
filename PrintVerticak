@@ -1,0 +1,4 @@
+#print in vertical way
+String= “Hello world”
+For i in String:
+    Print(i)
