@@ -1,4 +1,14 @@
 #print in vertical way
-String= “Hello world”
-For i in String:
+
+string="Hello World"
+def print_vertical(s):
+    for i in s:
+        #print(n, i)
+        #if n  % 2 == 1:
+        print(i, end= "")
+        print()
+print_vertical(string)
+
+#version 0
+For i in string:
     Print(i)
